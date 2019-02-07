@@ -1,0 +1,16 @@
+{
+    "name": "indeshvendor/indeshpackage",
+    "description": "this is indeshpackage of indeshvendor",
+    "authors": [
+        {
+            "name": "Indesh Prinja",
+            "email": "indeshducktale@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "indeshvendor\\indeshpackage\\": "src/"
+        }
+    }
+}
